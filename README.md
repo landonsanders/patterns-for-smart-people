@@ -1,4 +1,4 @@
-# Exploring Javascript Patterns
+# Patterns for Smart People
 
 Patterns of code happen in the real-world. Not to mention anti-patterns. Patterns are solutions for solving problems that happen all the time in programming. 
 

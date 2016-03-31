@@ -1,4 +1,4 @@
-var CORE = {
+var MEDIATOR = {
     modules: {},
     callbacks: [],
     create: function (module) {
@@ -22,7 +22,7 @@ var CORE = {
 var module1 = {
     id: 0, 
     init: function () {
-        CORE.sub(function () {
+        MEDIATOR.sub(function () {
             console.log('Hello, Module!');
         });
     }
@@ -31,12 +31,12 @@ var module1 = {
 var module2 = {
     id: 1, 
     init: function () {
-        CORE.pub();
+        MEDIATOR.pub();
     }
 };
 
-CORE.create(module1);
-CORE.create(module2);
+MEDIATOR.create(module1);
+MEDIATOR.create(module2);
 
-CORE.start(0);
-CORE.start(1);
+MEDIATOR.start(0);
+MEDIATOR.start(1);

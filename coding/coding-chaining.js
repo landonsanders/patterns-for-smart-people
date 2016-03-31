@@ -1,4 +1,4 @@
-// You can chain object method one after another with a dot
+// You can chain object methods one after another with a dot
 
 var person = {
     name: undefined,

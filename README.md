@@ -1,2 +1,3 @@
-# javascript-patterns.github.io
-init
+# Exploring Javascript Patterns
+
+> Hello, World. This is a blockquote.

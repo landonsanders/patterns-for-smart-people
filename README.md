@@ -14,4 +14,4 @@ Patterns may be categorized:
 * [Coding](https://github.com/landonsanders/patterns-for-smart-people/tree/master/coding)
 * [Design](https://github.com/landonsanders/patterns-for-smart-people/tree/master/design)
 
-. Let's explore the patterns of Javascript. Programming is problem solving. Problem solving is hard. Javascript loves you.
+. Let's explore the patterns of Javascript. Programming is problem solving. Problem solving is hard. Javascript loves you, because it has patterns.

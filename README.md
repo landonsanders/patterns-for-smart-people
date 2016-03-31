@@ -1,3 +1,3 @@
-# Exploring Javascript Patterns
+# Javascript Patterns
 
 > Hello, World. This is a blockquote.

@@ -4,7 +4,7 @@ Patterns of code happen in the real-world. Not to mention anti-patterns. Pattern
 
 > A pattern is a reusable solution to common programming problems 
 
-Patterns can be categorized:
+Patterns may be categorized:
 
 * General
 * Object

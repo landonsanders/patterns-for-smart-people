@@ -1,6 +1,6 @@
-// You can create an object with private properties with closure
+// You can create an object with private properties
 
-var person = (function () {
+var counter = (function () {
     
     var count = 0;
     
